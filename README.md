@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Danial 
+- 👀 I’m interested in front end developing
+- 🌱 I’m currently learning C+ , react and javaskript 
+- 💞️ Im lonely 
+- 📫 
