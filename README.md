@@ -13,7 +13,7 @@ I am just a boy that is fascinated by programming and is still looking for somet
 
 
 - [Website](https://danialirfan.netlify.app)
-- [Instagram](https://instagram.com/danial_dev01?utm_medium=copy_link)
+- [Instagram](https://instagram.com/danial_dev01)
 - [Twitter](https://twitter.com/DaniDevelopers)
 - [Slack](https://join.slack.com/t/dbotdevworkspace/shared_invite/zt-122k7bh5s-3bhmtuzF6YKAQe8MbE1PyA)
 
@@ -29,6 +29,7 @@ I am just a boy that is fascinated by programming and is still looking for somet
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Vue js](https://img.shields.io/badge/Vue.js-4FC08D.svg?style=for-the-badge&logo=vuedotjs&logoColor=white)
 
 ### My  Preferred Tools:
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
