@@ -12,7 +12,7 @@ I am just a boy that is fascinated by programming and is still looking for somet
 ### 🤝 My contacts :
 
 
-- [Website](https://danialirfan.netlify.app)
+- [Website](https://danialirfan.dev)
 - [Instagram](https://instagram.com/danial_dev01)
 - [Twitter](https://twitter.com/DaniDevelopers)
 - [Slack](https://join.slack.com/t/dbotdevworkspace/shared_invite/zt-122k7bh5s-3bhmtuzF6YKAQe8MbE1PyA)
