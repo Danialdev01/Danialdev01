@@ -2,7 +2,7 @@
 
 <p align="center">
     Assalamualaikum and Hi, I'm 
-<a href="https://danialirfan.netlify.app" target="_blank" rel="noreferrer">danial</a>
+<a href="https://danialirfan.dev" target="_blank" rel="noreferrer">danial</a>
 </p>
 
 <h2 align="center">I'm a Junior Frontend Web developer</h2>
