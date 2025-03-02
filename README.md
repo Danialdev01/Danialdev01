@@ -5,7 +5,7 @@
 <a href="https://danialirfan.dev" target="_blank" rel="noreferrer">danial</a>
 </p>
 
-<h2 align="center">I'm a Junior Frontend Web developer</h2>
+<h2 align="center">I'm a Web developer</h2>
 
 I am just a boy that is fascinated by programming and is still looking for something that he is good at. I am also improving to become a better programmer by learning new things. And I use Arch BTW.
 
